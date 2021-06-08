@@ -94,7 +94,7 @@ passlib==1.6.5
 pbr==5.4.4
 pexpect==4.2.1
 pgadmin4==4.8
-Pillow==5.4.1
+Pillow==8.2.0
 pipenv==2018.11.26
 polib==1.1.0
 protobuf==3.11.2
