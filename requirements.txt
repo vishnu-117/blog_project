@@ -95,7 +95,7 @@ pbr==5.4.4
 pexpect==4.2.1
 pgadmin4==4.8
 Pillow==5.4.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 polib==1.1.0
 protobuf==3.11.2
 psutil==4.3.1
